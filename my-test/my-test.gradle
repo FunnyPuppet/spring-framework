@@ -1,0 +1,11 @@
+description = "My Test"
+
+apply plugin: "kotlin"
+
+dependencies {
+    implementation(project(":spring-beans"))
+    implementation(project(":spring-context"))
+    implementation(project(":spring-core"))
+    implementation(project(":spring-aop"))
+    implementation(project(":spring-instrument"))
+}

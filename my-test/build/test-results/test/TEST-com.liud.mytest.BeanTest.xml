@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.liud.mytest.BeanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-10T05:45:06" hostname="LAPTOP-488OU04T" time="1.129">
+  <properties/>
+  <testcase name="testUserBean()" classname="com.liud.mytest.BeanTest" time="1.129"/>
+  <system-out><![CDATA[User对象初始化...
+User{id=1, userName='张三', idNo='423123', phone='1392300231', email='zhangsan@fox.com'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

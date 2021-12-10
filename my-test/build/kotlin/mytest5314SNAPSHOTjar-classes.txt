@@ -1,0 +1,1 @@
+D:\TrainingDocuments\Learning\spring-source\5.3.x\spring-framework\my-test\build\classes\java\main\com\liud\mytest\pojo\User.class

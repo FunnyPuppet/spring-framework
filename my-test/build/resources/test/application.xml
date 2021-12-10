@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="user" class="com.liud.mytest.pojo.User" init-method="init">
+		<property name="id" value="1"/>
+		<property name="userName" value="张三"/>
+		<property name="idNo" value="423123"/>
+		<property name="email" value="zhangsan@fox.com"/>
+		<property name="phone" value="1392300231"/>
+	</bean>
+</beans>
